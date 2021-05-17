@@ -1,17 +1,17 @@
-asgiref @ file:///tmp/build/80754af9/asgiref_1617740417847/work
+asgiref
 beautifulsoup4==4.9.3
 certifi==2020.12.5
 chardet==4.0.0
 dj-database-url==0.5.0
-Django @ file:///tmp/build/80754af9/django_1620913015185/work
+Django
 django-heroku==0.3.1
 gunicorn==20.1.0
 idna==2.10
-psycopg2 @ file:///C:/ci/psycopg2_1612298766762/work
-pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+psycopg2
+pytz
 requests==2.25.1
 soupsieve==2.2.1
-sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+sqlparse
 urllib3==1.26.4
 whitenoise==5.2.0
 wincertstore==0.2
