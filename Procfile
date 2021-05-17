@@ -1,0 +1,1 @@
+web: gunicorn WebScrapingApp.wsgi
